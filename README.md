@@ -3,10 +3,8 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&height=70&lines=AI+%2F+ML+Engineer+%F0%9F%A4%96;Deep+Learning+%26+Computer+Vision+%F0%9F%A7%A0;Python+%7C+TensorFlow+%7C+scikit-learn;Building+Intelligent+Systems+%F0%9F%9A%80;Neuro-AI+Researcher+%F0%9F%94%AC" alt="Typing SVG" />
 </div>
 
-
 <div align="center">
   
-
 📍 Surat, Gujarat, India | 🎓 M.Sc. IT @ Gujarat University
 
 </div>
@@ -109,52 +107,98 @@ me.say_hi()
 
 ## 🎯 Featured Projects
 
-### 🏠 AI Powered Smart Home Automation System
+<details open>
+<summary><b>🏠 AI Powered Smart Home Automation System</b></summary>
+<br>
+
 **February 2026**
 
-Intelligent home automation platform with 4 integrated ML pipelines:
-- 🌡️ Decision Tree-based fan speed control
-- 😊 CNN emotion recognition for adaptive mood lighting  
-- 🔐 LBPH face recognition for biometric security
-- 🎤 Offline multilingual voice commands (Vosk API + Flask)
+Intelligent home automation platform with 4 integrated ML pipelines for complete smart home control.
 
-**Tech:** Python, TensorFlow, OpenCV, Flask, Machine Learning
+### ✨ Key Features
+- 🌡️ **Smart Climate Control** - Decision Tree-based fan speed automation based on temperature and humidity
+- 😊 **Emotion-Based Lighting** - CNN emotion recognition for adaptive mood lighting system
+- 🔐 **Biometric Security** - LBPH face recognition for secure access control
+- 🎤 **Voice Control** - Offline multilingual voice commands using Vosk API
 
----
+### 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
-### 🛡️ SecureShield: AI/ML Malware Detection System
+</details>
+
+<details>
+<summary><b>📄 Locally Backend OCR System</b></summary>
+<br>
+
+**January 2026**
+
+High-performance offline OCR solution for extracting text from images and documents without internet dependency.
+
+### ✨ Key Features
+- 🖼️ **Multi-Format Support** - Process images, PDFs, and scanned documents
+- 🔒 **Complete Privacy** - 100% offline processing, no data leaves your system
+- ⚡ **Fast Processing** - Optimized backend for quick text extraction
+- 🌐 **Web Interface** - User-friendly Flask-based interface for easy document uploads
+- 📝 **High Accuracy** - Advanced OCR engine for accurate text recognition
+
+### 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Tesseract](https://img.shields.io/badge/Tesseract-003A70?style=flat-square&logo=google&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>🛡️ SecureShield: AI/ML Malware Detection System</b></summary>
+<br>
+
 **November 2025**
 
-Windows security scanner with ML-powered threat detection:
-- 🔍 Real-time malware detection and classification
-- ⚡ Automated process monitoring
-- 🚨 Intelligent scanning and quarantine system
+Advanced Windows security scanner with ML-powered threat detection and real-time protection.
 
-**Tech:** Python, scikit-learn, Machine Learning, Windows API
+### ✨ Key Features
+- 🔍 **Real-time Detection** - Continuous monitoring and malware classification
+- ⚡ **Process Monitoring** - Automated suspicious process detection and analysis
+- 🚨 **Smart Scanning** - Intelligent file scanning with quarantine system
+- 📊 **Threat Analysis** - Detailed reports on detected threats
+- 🛡️ **Proactive Protection** - Preventive measures against emerging threats
 
----
+### 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Windows API](https://img.shields.io/badge/Windows_API-0078D6?style=flat-square&logo=windows&logoColor=white)
 
-### 🫁 Pneumonia Detection Using CNN
+</details>
+
+<details>
+<summary><b>🫁 Pneumonia Detection Using CNN</b></summary>
+<br>
+
 **July 2024**
 
-Medical imaging application for automated pneumonia diagnosis:
-- 🏥 CNN-based binary classification on chest X-rays
-- 🌐 Flask web interface for real-time diagnosis
-- 📊 Instant results with confidence scores
+Medical imaging application for automated pneumonia diagnosis from chest X-rays using deep learning.
 
-**Tech:** TensorFlow, Keras, CNN, Flask, OpenCV
+### ✨ Key Features
+- 🏥 **CNN Classification** - Deep learning-based binary classification system
+- 🌐 **Web Interface** - Flask-powered interface for easy X-ray uploads
+- 📊 **Instant Results** - Real-time diagnosis with confidence scores
+- 🎯 **High Accuracy** - Trained on large medical imaging dataset
+- 💡 **User-Friendly** - Simple interface for medical professionals
 
----
+### 🛠️ Tech Stack
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![CNN](https://img.shields.io/badge/CNN-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
-### 💼 TPA Fraud Detection System
-**AI/ML Internship Project**
-
-Advanced insurance claims fraud detection:
-- 🤖 ML models for anomaly detection
-- 📊 Pattern analysis on claim data
-- 🔗 REST API for fraud probability scoring
-
-**Tech:** Python, Flask, scikit-learn, REST API
+</details>
 
 ---
 
@@ -163,7 +207,6 @@ Advanced insurance claims fraud detection:
 <div align="center">
   
 ![GitHub Streak](https://streak-stats.demolab.com?user=01vansh&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)
-
 
 </div>
 
@@ -212,7 +255,6 @@ K.S. School of Business Management, Gujarat University, Ahmedabad
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vansh-rathod)
 
 ### 💭 "The goal of AI is not to replace human intelligence — but to amplify it."
-
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D9FF,100:0D1117&height=120&section=footer&animation=fadeIn" width="100%" />
 
